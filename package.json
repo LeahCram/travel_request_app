@@ -31,7 +31,7 @@
         "bootstrap4c-chosen": "^1.1.1",
         "chosen-js": "^1.8.7",
         "fullcalendar": "^3.10.1",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "moment-timezone": "^0.5.28",
         "sweetalert2": "^9.10.0",
         "tempusdominus-bootstrap-4": "^5.1.2",
